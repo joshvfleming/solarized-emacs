@@ -451,7 +451,7 @@
                                            blue magenta cyan solarized-fg])
 
    ;; fill-column-indicator
-   `(fci-rule-color ,solarized-hl)))
+   '(fci-rule-color solarized-hl)))
 
 ;;;###autoload
 (when load-file-name
